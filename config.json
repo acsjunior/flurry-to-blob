@@ -1,0 +1,11 @@
+{
+    "local_path":"",
+    "filename":"flurry.csv",
+    "dafault_ini_date": "2018-01-01",
+    "flurry_url": "https://api-metrics.flurry.com/public/v1/data/appUsage/day/app/platform",
+    "flurry_key": "",
+    "blob_account_name":"",
+    "blob_account_key": "",
+    "blob_image_container":"",
+    "blob_name": ""
+}
