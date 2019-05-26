@@ -1,6 +1,6 @@
 # flurry-to-blob
 
-A python scritp to fetch data from Flurry and store it in Azure Blob in csv format
+A python scritp to fetch data from Flurry Analytics and store it in Azure Blob in csv format
 
 
 ### Flurry Analytics API
